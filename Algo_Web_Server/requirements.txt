@@ -1,0 +1,8 @@
+numpy==1.24.3
+# openai-whisper
+moviepy
+pytube
+configparser
+openai
+requests
+httpserver

@@ -1,0 +1,30 @@
+.reveal {
+  position: relative;
+  opacity: 0;
+  transition: 1.5s all ease-in;
+  animation-fill-mode: forwards;
+}
+.reveal.active {
+  opacity: 1;
+}
+.reveal1 {
+  transform: translateX(-150px);
+  transition: 0.75s all ease-in;
+}
+.reveal1.active {
+  transform: translateX(0);
+}
+.reveal2 {
+  transform: translateY(100px);
+  transition: 0.75s all ease-in;
+}
+.reveal2.active {
+  transform: translateY(0);
+}
+.reveal3 {
+  transform: translateY(-50px);
+  transition: 0.75s all ease-in;
+}
+.reveal3.active {
+  transform: translateY(0);
+}
