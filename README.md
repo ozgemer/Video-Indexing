@@ -2,9 +2,17 @@
 
 Website mockup: https://www.figma.com/file/GwpH6vcDA5baSgNtGLSjIp/Video-Indexing-Mockup?node-id=0%3A1&t=cRK77DRZUfs4Qb4u-1 
 
-https://github.com/ozgemer/Video-Indexing/assets/94167340/4292153a-43d2-4993-8601-9e2dec04e47e
 
-https://github.com/ozgemer/Video-Indexing/assets/94167340/00e85b50-23e2-4a97-81ca-a435169d7429
+
+https://github.com/ozgemer/Video-Indexing/assets/94167340/090f45c7-c97d-49d8-b894-db44d8240334
+
+
+
+
+https://github.com/ozgemer/Video-Indexing/assets/94167340/01ac60cb-4dac-48e6-a379-b62c7cb455da
+
+
+<br/>
 
 ## Prerequisites
 * install docker
