@@ -2,6 +2,10 @@
 
 Website mockup: https://www.figma.com/file/GwpH6vcDA5baSgNtGLSjIp/Video-Indexing-Mockup?node-id=0%3A1&t=cRK77DRZUfs4Qb4u-1 
 
+https://github.com/ozgemer/Video-Indexing/assets/94167340/4292153a-43d2-4993-8601-9e2dec04e47e
+
+https://github.com/ozgemer/Video-Indexing/assets/94167340/00e85b50-23e2-4a97-81ca-a435169d7429
+
 ## Prerequisites
 * install docker
 * add to Video-Indexing/Node_Web_Server .env file:
